@@ -104,4 +104,4 @@ The system reads PWM signals from a FlySky receiver and converts them into motor
    * RC receiver to PWM input pins
    * Motor driver to output pins
    * Ultrasonic sensor to GPIO
-5. Currently powering system through laptop, but a 9 V battery to VIN will work too
+5. Currently power system through laptop, but a 9 V battery to VIN will work too
